@@ -100,29 +100,17 @@
                             <nav class="mainMenu">
                                 <ul>
                                     <li class="active scroll has-child">
-                                        <a href="#home">Home</a>
-                                        <ul>
-                                            <li><a href="index.html">Home Minimal</a></li>
-                                            <li><a href="index2.html">Home Agency</a></li>
-                                            <li><a href="index3.html">Home diagonal</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="scroll"><a href="#features">Features</a></li>
-                                    <li class="scroll has-child">
-                                        <a href="#portfolio">Portfolio</a>
-                                        <ul>
-                                            <li><a href="singlefolio.html">Single Portfolio</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="scroll"><a href="#team">Team</a></li>
-                                    <li class="scroll has-child">
-                                        <a href="#blog">Blog</a>
-                                        <ul>
-                                            <li><a href="blog.html">Blog Listing</a></li>
-                                            <li><a href="singleblog.html">Single Blog</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="scroll"><a href="#contact">Contact</a></li>
+                                        <a href="#home">Home</a></li>
+                                    <li class="scroll">
+                                        <a href="#welcome">Welcome</a></li>
+                                    <li class="scroll">
+                                        <a href="#values">Corporate Values</a></li>
+                                    <li class="scroll">
+                                        <a href="#missionvision">Mission/Vision</a></li>
+                                    <li class="scroll">
+                                        <a href="#whatweoffer">Services</a></li>
+                                    <li class="scroll">
+                                        <a href="#officers">Officers</a></li>
                                 </ul>
                                 <div class="menuButtons">
                                     <a href="#">

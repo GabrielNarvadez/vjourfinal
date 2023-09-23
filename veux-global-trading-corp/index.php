@@ -96,7 +96,7 @@
     </div>
 </section>
 
-<section class="comonSection welcome2">
+<section class="comonSection welcome2" id="welcome">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 text-center wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
@@ -131,7 +131,7 @@
                     </div>
                 </div>
             </section>
-<section class="comonSection features" id="features">
+<section class="comonSection features" id="values">
                 <div class="halfImg wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
                     <img src="images/bg/promo-1.png" alt=""/>
                 </div>
@@ -198,7 +198,7 @@
                 </div>
             </section>
             
-<section class="comonSection whychoose overlay">
+<section class="comonSection whychoose overlay" id="missionvision">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 col-lg-offset-2">
@@ -247,13 +247,13 @@
                     </div>
                 </div>
             </section>
-<section class="comonSection portfolios2" id="portfolio">
+<section class="comonSection portfolios2" id="whatweoffer">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 text-center wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
                             <h2 class="sectionTitle2">
-                                <small>Recent Case studies</small>
-                                What we have done so far.
+                               
+                                WHAT WE OFFER
                             </h2>
                         </div>
                     </div>
@@ -276,7 +276,7 @@
                 </div>
             </section>
 
-<section class="comonSection" id="team">
+<section class="comonSection" id="officers">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 text-center wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
