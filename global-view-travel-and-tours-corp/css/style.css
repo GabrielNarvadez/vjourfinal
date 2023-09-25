@@ -90,7 +90,7 @@ body.bodyoverflos{
     left: 0;
     top: 0;
     width: 100%;
-    background: rgba(0, 0, 0, .97);
+    background: rgba(5, 176, 214, 0.81);
     transition: all ease 400ms;
     -moz-transition: all ease 400ms;
     -webkit-transition: all ease 400ms;
