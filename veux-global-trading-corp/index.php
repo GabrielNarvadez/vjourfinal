@@ -133,7 +133,7 @@
             </section>
 <section class="comonSection features" id="values">
                 <div class="halfImg wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
-                    <img src="images/bg/promo-1.png" alt=""/>
+                    <img src="images/bg/corpval.jpg" alt=""/>
                 </div>
                 <div class="container">
                     <div class="row">
@@ -261,7 +261,7 @@
                 </div>
                 <section class="comonSection gallery">
                     <div class="galImg">
-                        <img src="images/gallery/gal.jpg" alt=""/>
+                        <img src="images/bg/prodbanner.jpg" alt=""/>
                     </div>
                 </section>
                
@@ -291,42 +291,42 @@
                     <div class="row">
                         <div class="col-lg-12 text-center team2row">
                             <div class="singleTeam2 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
-                                <img src="images/team/1.jpg" alt=""/>
+                                <img src="images/team/rynah.jpg" alt=""/>
                                 <div class="teamHoverContent"></div>
                                 <div class="teamDetails">
-                                    <a href="#">Ryna F. Ventura</a>
+                                    <a href="#">Rynah F. Ventura</a>
                                     <span>PRESIDENT/CHAIRMAN</span>
                                 </div>
                             </div><div class="singleTeam2 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="350ms">
-                                <img src="images/team/5.jpg" alt=""/>
+                                <img src="images/team/rynah.jpg" alt=""/>
                                 <div class="teamHoverContent"></div>
                                 <div class="teamDetails">
                                     <a href="#">Delia M. De Castro</a>
                                     <span>SECRETARY</span>
                                 </div>
                             </div><div class="singleTeam2 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="400ms">
-                                <img src="images/team/2.jpg" alt=""/>
+                                <img src="images/team/rynah.jpg" alt=""/>
                                 <div class="teamHoverContent"></div>
                                 <div class="teamDetails">
                                     <a href="#">Herlyn A. Lasala</a>
                                     <span>TREASURER</span>
                                 </div>
                             </div><div class="singleTeam2 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="450ms">
-                                <img src="images/team/3.jpg" alt=""/>
+                                <img src="images/team/rynah.jpg" alt=""/>
                                 <div class="teamHoverContent"></div>
                                 <div class="teamDetails">
                                     <a href="#">Loida L. Rago</a>
                                     <span>ACCOUNTING & FINANCE HEAD</span>
                                 </div>
                             </div><div class="singleTeam2 hidden wow fadeInUp" data-wow-duration="700ms" data-wow-delay="500ms">
-                                <img src="images/team/6.jpg" alt=""/>
+                                <img src="images/team/rynah.jpg" alt=""/>
                                 <div class="teamHoverContent"></div>
                                 <div class="teamDetails">
                                     <a href="#">Lisa Marie M. Slevin</a>
                                     <span>OPERATIONS HEAD</span>
                                 </div>
                             </div><div class="singleTeam2 hidden wow fadeInUp" data-wow-duration="700ms" data-wow-delay="600ms">
-                                <img src="images/team/4.jpg" alt=""/>
+                                <img src="images/team/rynah.jpg" alt=""/>
                                 <div class="teamHoverContent"></div>
                                 <div class="teamDetails">
                                     <a href="#">Mary Del Borja</a>
@@ -338,12 +338,7 @@
                 </div>
             </section>
 
-<section class="comonSection gallery">
-                <div class="galImg">
-                    <img src="images/gallery/gal.jpg" alt=""/>
-                </div>
-            </section>
-            <div class="clearfix"></div>
+
 
 <section class="comonSection contactSection2" id="contact">
                 <div class="container">
