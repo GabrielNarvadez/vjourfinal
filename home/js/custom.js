@@ -308,14 +308,13 @@ this.viewport.on('sideChange', function() {
 });
 }
 Cube.prototype.rotateSides = function() {
-var viewport = this.viewport;
-if(viewport.positionY > 90 && viewport.positionY < 270) {
-  this.sides[0].getElementsByClassName('cube-image')[0].style[userPrefix.js + 'Transform'] = 'rotate(' + (viewport.positionX + viewport.torqueX) + 'deg)';
-  this.sides[5].getElementsByClassName('cube-image')[0].style[userPrefix.js + 'Transform'] = 'rotate(' + -(viewport.positionX + 180 + viewport.torqueX) + 'deg)';
-} else {
-  this.sides[0].getElementsByClassName('cube-image')[0].style[userPrefix.js + 'Transform'] = 'rotate(' + (viewport.positionX - viewport.torqueX) + 'deg)';
-  this.sides[5].getElementsByClassName('cube-image')[0].style[userPrefix.js + 'Transform'] = 'rotate(' + -(viewport.positionX + 180 - viewport.torqueX) + 'deg)';
-}
+  for (var i = 0; i < this.sides.length; i++) {
+    var side = this.sides[i];
+    var cubeImage = side.getElementsByClassName('cube-image')[0];
+    
+    // Set a fixed rotation for all sides (0 degrees)
+    cubeImage.style[userPrefix.js + 'Transform'] = 'rotate(0deg)';
+  }
 }
 Cube.prototype.upsideDown = function(obj) {
 
