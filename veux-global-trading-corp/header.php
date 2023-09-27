@@ -44,7 +44,9 @@
                     <div class="row">
                         <div class="col-lg-3 col-sm-3">
                             <div class="logo">
-                                <a href="index.php"><small>VEUX GLOBAL TRADING CORP</small></a>
+                                <a href="index.php"><div class="logo">
+                                    <img src="images/gview.png" height="50">
+                                </div></a>
                             </div>
                         </div>
                         <div class="col-lg-9 col-sm-9 horizontalmenu">

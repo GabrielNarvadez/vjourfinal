@@ -101,9 +101,9 @@ body.menuOpened .fixedHeader{
     left: -300px;
 }
 .logo{
+    padding-top: 20px;
     width: 100%;
     text-align: left;
-    padding-top: 45px;
     padding-bottom: 0px;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
