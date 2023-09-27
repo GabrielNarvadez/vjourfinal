@@ -67,6 +67,8 @@
                                           user-select: none; }
                                         
                                         .cube > div > div.cube-image {
+                                          transform: scale(0.7);
+                                          transform-origin: center center;
                                           width: 200px;
                                           height: 200px;
                                           -webkit-transform: rotate(180deg);
