@@ -112,8 +112,8 @@ body.menuOpened .fixedHeader{
     -o-transition: all ease 500ms;
 }
 .fixedHeader .logo{
-    padding-top: 20px;
-    padding-bottom: 32px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .logo a{
     font-family: Roboto;

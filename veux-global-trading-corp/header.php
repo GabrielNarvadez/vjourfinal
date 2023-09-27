@@ -45,7 +45,7 @@
                         <div class="col-lg-3 col-sm-3">
                             <div class="logo">
                                 <a href="index.php"><div class="logo">
-                                    <img src="images/gview.png" height="50">
+                                    <img src="images/VEUX_logo.png" height="50">
                                 </div></a>
                             </div>
                         </div>

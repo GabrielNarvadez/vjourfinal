@@ -17,7 +17,7 @@
                          data-start="1200"
                          data-easing="Power4.easeOut">
                         <div class="slid2s">
-                            <h2>Bridging Borders, Building Prosperity</h2>
+                            <h2>We Search & Serve “ONE CALL….THAT’S ALL</h2>
                         </div>
                     </div>
                     <div class="tp-caption sfb text-right homeOneSlider"
@@ -44,7 +44,7 @@
                          data-start="1200"
                          data-easing="Power4.easeOut">
                         <div class="slid2s">
-                            <h2>Unlocking Global Markets, Unleashing Potential</h2>
+                            <h2>We Search & Serve “ONE CALL….THAT’S ALL</h2>
                         </div>
                     </div>
                     <div class="tp-caption sfb text-right homeOneSlider"
@@ -71,7 +71,7 @@
                          data-start="1200"
                          data-easing="Power4.easeOut">
                         <div class="slid2s">
-                            <h2>Navigating Trade, Embracing Success</h2>
+                            <h2>We Search & Serve “ONE CALL….THAT’S ALL</h2>
                         </div>
                     </div>
                     <div class="tp-caption sfb text-right homeOneSlider"
@@ -359,25 +359,14 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-lg-10 col-lg-offset-1">
-                            <div class="row">
-                                <form class="conForms conforms2" method="post" action="#" id="contactForm">
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
-                                        <input type="text" name="con_name" id="con_name" class="inputa required" placeholder="NAME:"/>
-                                        <input type="email" name="con_email" id="con_email" class="inputa required" placeholder="EMAIL:"/>
-                                        <input type="text" name="con_phone" id="con_phone" class="inputa required" placeholder="PHONE:"/>
-                                    </div>
-                                    <div class="col-lg-6 wow fadeInUp" data-wow-duration="700ms" data-wow-delay="350ms">
-                                        <textarea class="texputa required" id="con_message" name="con_message" placeholder="MESSAGE:"></textarea>
-                                    </div>
-                                    <div class="col-lg-12 text-right wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
-                                        <button type="submit" class="submita" id="con_submit">Send Message</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
+                    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "na1",
+    portalId: "21495779",
+    formId: "9e0a84b4-9cbd-44c6-bc91-49924da18ac1"
+  });
+</script>
                 </div>
             </section>
 
