@@ -103,7 +103,7 @@ body.menuOpened .fixedHeader{
 .logo{
     width: 100%;
     text-align: left;
-    padding-top: 45px;
+    padding-top: 20px;
     padding-bottom: 0px;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
@@ -112,7 +112,7 @@ body.menuOpened .fixedHeader{
     -o-transition: all ease 500ms;
 }
 .fixedHeader .logo{
-    padding-top: 37px;
+    padding-top: 0px;
     padding-bottom: 32px;
 }
 .logo a{
