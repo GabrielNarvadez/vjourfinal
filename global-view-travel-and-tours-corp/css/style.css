@@ -101,9 +101,9 @@ body.menuOpened .fixedHeader{
     left: -300px;
 }
 .logo{
+    padding-top: 20px;
     width: 100%;
     text-align: left;
-    padding-top: 20px;
     padding-bottom: 0px;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
@@ -112,8 +112,8 @@ body.menuOpened .fixedHeader{
     -o-transition: all ease 500ms;
 }
 .fixedHeader .logo{
-    padding-top: 0px;
-    padding-bottom: 32px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .logo a{
     font-family: Roboto;
@@ -239,7 +239,7 @@ body.menuOpened .fixedHeader{
     position: absolute;
     left: 0%;
     top: 150%;
-    background: rgba(0, 0, 0, .9);
+    background: #05b1d6;
     width: 230px;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
@@ -963,7 +963,7 @@ body.menuOpened .sideMenuArea{
 // Why Choose Stellar
 =========================================================================*/
 .whychoose{
-    background: url(../images/tabs/goal.jpg) no-repeat center center;
+    background: url(../images/bg/16.jpg) no-repeat center center;
     padding: 100px 0 55px;
 }
 .overlay:after{
@@ -995,7 +995,7 @@ body.menuOpened .sideMenuArea{
     font-size: 18px;
     line-height: 36px;
     letter-spacing: 0px;
-    color: #999;
+    color: #ffffff;
 }
 .bootsTab{
     margin-top: 75px;
@@ -2090,7 +2090,7 @@ body.menuOpened .sideMenuArea{
 }
 .testiItem p{
     font-weight: 100;
-    color: #FFF;
+    color: #ffffff;
     line-height: 50px;
     font-size: 36px;
     margin-bottom: 46px;
